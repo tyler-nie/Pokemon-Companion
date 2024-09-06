@@ -1,7 +1,5 @@
-
 # Pokemon-Companion
-=======
-# Pokemon Companion
+
 
 ## Project Summary
 The project is intended to model the various elements a player will likely need to assist them
