@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Pokemon-Companion
 =======
 # Pokemon Companion
